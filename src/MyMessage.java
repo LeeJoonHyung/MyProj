@@ -7,4 +7,8 @@ public class MyMessage {
 		System.out.println(message);
 		System.out.println("Mr.Lee!");
 	}
+	public void Setprint() {
+		System.out.println(message);
+		System.out.println("Mr.Lee!");
+	}
 }
